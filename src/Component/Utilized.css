@@ -1,0 +1,51 @@
+.Utilization{
+    color: white;
+    font-weight: bolder;
+    padding-top: 50px;
+   
+}
+#blue{
+    background-color:#040447;
+
+}
+.box{
+    color: white;
+}
+.cardtop{
+    text-align: center;
+    background: transparent;
+color: white;
+box-shadow: 0 0 10px 0 rgb(0 0 0 / 50%);
+background-color: rgba(12,6,68,.5);
+}
+.abc{
+width: 90%; 
+padding-top: 5px; 
+margin: 0px auto;
+}
+.h4{
+    color: white;
+}
+.h3{
+    color: white;
+}
+.efg{
+    height: 4px;
+    width: 5%;
+    background-color: rgb(207, 222, 65);
+    margin-top: 3px;
+}
+.hij{
+    height: 10px; 
+    width: 5%; 
+    background-color: rgb(0, 0, 0);
+}
+.klm{
+    height: 4px;
+     width: 90%; 
+     background-color: rgb(0, 173, 189); 
+    margin-top: 3px;
+}
+#lastimg{
+    margin-bottom: 100px;
+}

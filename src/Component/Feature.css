@@ -1,0 +1,33 @@
+#img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#empower{
+    padding-top: 90px;
+    text-align: center;
+    font-weight: bolder;
+    color: white;
+}
+#blue{
+    background-color:#040447;
+}
+#title{
+text-align: center;
+}
+.Features{
+    width: 16rem;
+    background: transparent;
+    background-color: #040447;
+    color: white;
+    border: none;
+
+}
+#img2{
+    background-image:fixed;
+}
+@media only screen and (max-width: 1024px) {
+   .Features{
+    width: 12rem;
+   }
+  }

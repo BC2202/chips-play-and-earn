@@ -1,0 +1,58 @@
+.footer-card{
+    background: transparent;
+width: 28rem;
+}
+
+.footer1{
+    padding-top: 100px;
+}
+.link{
+    color:#cfde41;
+    text-decoration: none;
+    font-weight: bolder;
+}
+.link:hover{
+    color:#cfde41;
+}
+.contact{
+    color: white;
+}
+
+.copyright{
+    padding-top: 25px;
+    color: white;
+    font-size: 16px;
+}
+#blue{
+    background-color:#040447;
+}
+.hr{
+    border-top: 2px solid #6ec1e4;
+    opacity: 1;
+}
+
+.links{
+    color:#ffffff;
+    text-decoration: none;
+    font-weight: bolder;
+}
+.links:hover{
+    color:#cfde41;
+}
+.card2nd{
+background: transparent;
+border: none;
+width: 21rem;
+}
+#quick{
+    font-weight: bold;
+    color: white;
+}
+@media only screen and (max-width: 1024px) {
+    .card2nd{
+        width: 16rem;
+    }
+    .footer-card{
+        width: 22rem;
+    }
+    }

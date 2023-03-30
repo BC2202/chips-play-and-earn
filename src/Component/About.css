@@ -1,0 +1,26 @@
+#color{
+    color: white;
+}
+#card{
+    color: white;
+    margin-top: 65px;
+    margin-left: 10px;
+    background: transparent;
+    box-shadow: 0 0 10px 0 rgb(0 0 0 / 50%);
+    background-color: rgba(12,6,68,.5);
+}
+#card2{
+margin-top: 65px;
+color: white;
+box-shadow: 0 0 10px 0 rgb(0 0 0 / 50%);
+background-color: rgba(12,6,68,.5);
+}
+#heading{
+    margin-top: 25px;
+    font-size: 30px;
+    font-weight: bolder;
+}
+#paragraph{
+
+line-height: 30px;
+}

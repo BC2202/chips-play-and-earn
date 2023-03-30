@@ -1,0 +1,96 @@
+.Nevbar-img{
+    height: 85px;
+    width: 85px;
+}
+.Nevbar-img2{
+    height: 70px;
+    width: 90px;
+}
+#link:hover{
+color: #CFDE41;
+}
+#link{
+    color: white;
+}
+#hello{
+    background:transparent;
+    background-color: rgb(248, 243, 243);
+}
+.center-chip{
+    margin-top: 70px;
+    height: 220px;
+}
+.p{
+    color: white;
+    font-size: 18px;
+}
+.button1{
+    font-weight: 600;
+    color: white;
+    padding: 10px 50px 10px 50px;
+    border-radius: 20px 20px 20px 20px;
+    display: block ;
+    margin-left: auto;
+    margin-right: 0;
+    border-color: white;
+}
+.button2{
+    font-weight: 600;
+    color: white;
+    padding: 10px 50px 10px 50px;
+    border-radius: 20px 20px 20px 20px;
+    border-color: white;
+}
+.chiptoken, .crumbTransparent {
+    background-color: initial;
+    border: 2px solid #fff;
+    border-radius: 20px 20px 20px 20px;
+    color: #fff;
+    font-weight: 600;
+    padding: 8px 60px;
+}
+.chiptoken {
+    background-image: linear-gradient(170deg,#cfde41,#00adbd);
+    padding: 8px 70px;
+}
+.gooleplay{
+    margin-top: 50px;
+    height: 60px;
+    margin-left: auto;
+    margin-right: 0;
+    display: block;
+}
+.playstore{
+    margin-top: 50px;
+    height: 60px;
+}
+.buytoken{
+    background-color: initial;
+    border: 2px solid #fff;
+    border-radius: 20px 20px 20px 20px;
+    font-weight: 600;
+    color: white;
+    padding: 10px 50px 10px 50px;
+    border-color: white;
+    padding: 8px 60px;
+    margin: auto;
+    display: block;
+}
+@media only screen and (max-width: 768px) {
+   .Nevbar-img {
+    display: none;
+    visibility: hidden;
+   }
+   .Nevbar-img2 {
+    display: none;
+    visibility: hidden;
+   }
+  }
+  @media only screen and (max-width: 320px) {
+    .button1{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+   }
+  

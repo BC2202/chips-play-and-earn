@@ -1,0 +1,167 @@
+#tokenomic{
+    padding-bottom: 50px;
+}
+.heading{
+    color: white;
+    font-weight: bold;
+    padding-top: 50px;
+}
+.paragraph{
+    color: white;
+    font-size: 15px;
+}
+
+
+.item-box-top {
+    background-color: #cfde41;
+    border-left: 2px solid #55aebd;
+    border-right: 2px solid #55aebd;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    margin-bottom: 4px;
+    width: 100%;
+    padding: 1px 1px;
+}
+.item-box-bottom {
+    
+    background-color: #55aebd;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-left: 2px solid #cfde41;
+    border-right: 2px solid #cfde41;
+    padding: 1px 1px;
+    width: 100%;
+}
+.boxbottom{
+    font-weight:bold;
+    color: white;
+    font-size: 17px;
+}
+.item-box-top h3 {
+    font-size: 18px;
+    font-weight: 600;
+    margin: 0;
+    padding: 4px 0;
+    font-weight: bold;
+}
+.item-box-bottom h4 {
+    font-size: 18px;
+    font-weight: 600;
+    margin: 0;
+    padding: 4px 0;
+    color: white;
+}
+
+.box{
+
+    color: white;
+    text-align: center;
+    font-weight: normal;
+    font-size: 13px;
+}
+.circle{
+    border-radius: 9px;
+    color: white;
+    margin-top: 65px;
+    margin-left: 30px;
+    background: transparent;
+    box-shadow: 0 0 10px 0 rgb(0 0 0 / 50%);
+    background-color: rgba(12,6,68,.5);
+}
+#bar{
+    width: 90%; 
+     margin: 0px auto;
+     padding-bottom: 10px;
+}
+#reserved1{
+    height: 4px; 
+    width: 5%; background-color:
+    rgb(207, 222, 65);
+     margin-top: 3px;
+}
+#reserved2{
+    height: 10px;
+    width: 5%;
+    background-color: rgb(0, 0, 0);
+}
+#team1{
+    height: 4px; 
+    width: 10%; background-color:
+    rgb(207, 222, 65);
+     margin-top: 3px;
+}
+#team2{
+    height: 10px;
+    width: 5%;
+    background-color: rgb(0, 0, 0);
+}
+#team3{
+    height: 4px;
+    width: 90%; 
+    background-color: rgb(0, 173, 189);
+    margin-top: 3px;
+}
+#development1{
+    height: 4px; 
+    width: 15%; background-color:
+    rgb(207, 222, 65);
+     margin-top: 3px;
+}
+#development2{
+    height: 10px;
+    width: 5%;
+    background-color: rgb(0, 0, 0);
+}
+
+#public1{
+    height: 4px; 
+    width: 35%; background-color:
+    rgb(207, 222, 65);
+     margin-top: 3px;
+}
+#public2{
+    height: 10px;
+    width: 5%;
+    background-color: rgb(0, 0, 0);
+}
+
+#market1{
+    height: 4px; 
+    width: 10%; background-color:
+    rgb(207, 222, 65);
+     margin-top: 3px;
+}
+#market2{
+    height: 10px;
+    width: 5%;
+    background-color: rgb(0, 0, 0);
+}
+
+#liquidity1{
+    height: 4px; 
+    width: 10%; background-color:
+    rgb(207, 222, 65);
+     margin-top: 3px;
+}
+#liquidity2{
+    height: 10px;
+    width: 5%;
+    background-color: rgb(0, 0, 0);
+}
+
+#private1{
+    height: 4px; 
+    width: 2.3%; background-color:
+    rgb(207, 222, 65);
+     margin-top: 3px;
+}
+#private2{
+    height: 10px;
+    width: 5%;
+    background-color: rgb(0, 0, 0);
+}
+@media only screen and (max-width: 1024px) {
+   .circle{
+    margin-left: 20px;
+   }
+   }
